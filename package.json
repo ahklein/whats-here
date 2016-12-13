@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Hello, World app",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahklein/hello"
+  },
+  "dependencies": {
+    "express" : "4.13.3"
+  },
+  "keywords": [],
+  "author": "Andrew Klein",
+  "license": "ISC"
+}
