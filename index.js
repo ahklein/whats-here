@@ -10,7 +10,7 @@ app.set('port', (process.env.PORT || 5000));
 
 app.get("/", function (req, res) {
 
-   res.end('hello, world 2');
+   res.end('hello, world');
 
 });
 
